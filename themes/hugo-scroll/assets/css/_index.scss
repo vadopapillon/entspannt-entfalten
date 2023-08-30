@@ -1,0 +1,11 @@
+// CSS variables
+@import "variables";
+
+// Theme layout and skelet styling
+@import "theme";
+
+// Content-related styles
+@import "content";
+
+// Media queries for responsiveness (optimizations for various screen sizes)
+@import "responsiveness"
