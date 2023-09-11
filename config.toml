@@ -3,13 +3,13 @@ baseURL = "https://example.com"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Vanessa Doriat - Entspannungspädagogin"
+title = "Entspannt Entfalten"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -35,7 +35,7 @@ title_guard = false
 # Another "title" :-). This one is used as the site_name on the Hugo's internal
 # opengraph structured data template.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Vanessa Doriat - Entspannungspädagogin"
+title = "Entspannt Entfalten"
 
 # The "description" of your website. This is used in the meta data of your generated html.
 description = "Entspannungspädagogin"

@@ -1,0 +1,52 @@
+
+@import url(fonts.css);
+
+:root{
+    --primary-color: #ffbb0b;
+    --secondary-color: #006080;
+    --tertiray-color: #c77000;
+
+
+    /* Dark section - background color */
+    --section-dark-bg-color: #c77000;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #e0ded7;
+}
+
+/* ==========================================================================
+      Custom styles for specific elements
+   ========================================================================== */
+
+/* custom css keeps getting overqritten unless very specific selector used */
+#site-head .blog-description, #site-head.withCenteredImage .blog-description {
+    font-family: "Montserrat", sans-serif;
+}
+
+#site-head a.btn, #site-head.withCenteredImage a.btn {
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    font-family: "Montserrat", serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.blog-description {
+    font-family: "Montserrat", sans-serif;}
+
+a.btn {
+    font-family: "Montserrat", sans-serif;}
+
+
+.fixed-nav {
+    font-family: "Montserrat", sans-serif;
+}
+
+.site-footer {
+    font-family: "Montserrat", sans-serif;
+}
+
+
