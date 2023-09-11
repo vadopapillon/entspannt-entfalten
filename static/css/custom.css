@@ -17,7 +17,7 @@
       Custom styles for specific elements
    ========================================================================== */
 
-/* custom css keeps getting overqritten unless very specific selector used */
+/* custom css keeps getting overwritten unless very specific selector used */
 #site-head .blog-description, #site-head.withCenteredImage .blog-description {
     font-family: "Montserrat", sans-serif;
 }
