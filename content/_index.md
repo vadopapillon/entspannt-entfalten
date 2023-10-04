@@ -1,6 +1,8 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: ""
+#header_image: "images/calvin-mano-CXS27RrJObQ-unsplash.jpg"
+header_image: "images/sagar-kulkarni-8Td8zBzoAfM-unsplash.jpg"
+#header_image: "images/yuichi-kageyama-4ByFHyNdoD4-unsplash.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false

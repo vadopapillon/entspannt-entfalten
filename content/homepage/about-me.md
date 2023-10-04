@@ -2,10 +2,14 @@
 title: "Über mich"
 header_menu_title: "Über mich"
 navigation_menu_title: "Über mich"
-weight: 4
+weight: 3
 header_menu: true
 ---
 
 ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-Hi, ich bin Vanessa, wohne im Norden von München und arbeite hauptberuflich in der gesetzlichen Unfallversicherung. Mir ist es wichtig, dass die Menschen in meinem Umfeld respektvoll und wertschätzend miteinander umgehen und ich möchte meinen Teil zu einer friedlichen Gesellschaft beitragen. 
+Mein Name ist Vanessa und ich bin Entspannungspädagogin bei "Entspannt entfalten". Ich verstehe, dass das Leben oft stressig 
+und herausfordernd ist und ich bin hier, um Dir Werkzeuge und Unterstützung anzubieten, um besser mit den Anforderungen 
+des Alltags umzugehen. Mein Schwerpunkt liegt darauf, Dir Techniken beizubringen, die es Dir ermöglichen, schwierige 
+Situationen gelassener zu bewältigen und Stress abzubauen. Entspannung ist für mich ein Weg, um langfristig Deine 
+Resilienz und Dein Wohlbefinden zu fördern. Wenn Du möchtest, begleite ich Dich ein Stück beim Entfalten. 
