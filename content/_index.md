@@ -1,8 +1,11 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
 #header_image: "images/calvin-mano-CXS27RrJObQ-unsplash.jpg"
-header_image: "images/sagar-kulkarni-8Td8zBzoAfM-unsplash.jpg"
+#header_image: "images/sagar-kulkarni-8Td8zBzoAfM-unsplash.jpg"
 #header_image: "images/yuichi-kageyama-4ByFHyNdoD4-unsplash.jpg"
+#header_image: "images/EntspanntEntfaltenBG.png"
+header_image: "images/EntspanntEntfaltenBGblurred.png"
+
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -12,5 +15,5 @@ header_logo: ""
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Entspannt entfalten"
-header_subheadline: "<b>Entspannungspädagogin</b>"
+header_subheadline: "Entspannungspädagogik"
 ---

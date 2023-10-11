@@ -16,16 +16,14 @@ können Dir zum Beispiel bei der Einschlafbegleitung Deines Kindes helfen und De
 Im Paketpreis enthalten ist außerdem eine individuelle Audiodatei, die ich nach einem kurzen Gespräch ganz nach 
 Deinen aktuellen Bedürfnissen erstelle.
 
-## Was ist Autogenes Training?
+#### Was ist Autogenes Training?
 Autogenes Training ist eine bewährte Methode zur Stressbewältigung und Entspannung. Bei dieser Technik lernst Du, 
 Deinen Körper und Geist durch eigeninitiierte Ruheformeln in einen Zustand tiefer Entspannung zu versetzen. 
 Durch regelmäßiges Üben kannst Du damit Deine inneren Ressourcen stärken.
 
-## Was ist Progressive Muskelentspannung?
+#### Was ist Progressive Muskelentspannung?
 Die Progressive Muskelentspannung ist eine wirkungsvolle Methode, um körperliche Anspannung zu reduzieren. 
 Hierbei lernst Du, bestimmte Muskelgruppen gezielt anzuspannen und wieder zu entspannen. Dieser Wechsel zwischen 
 Anspannung und Entspannung hilft dabei, Stress abzubauen, Verspannungen zu lösen und eine körperliche Entspannung 
 zu erreichen.
 
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)

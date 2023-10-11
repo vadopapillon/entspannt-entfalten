@@ -6,11 +6,41 @@
     --secondary-color: #006080;
     --tertiray-color: #c77000;
 
+    --section-uni-quote: var(--section-light-text-color);
+
 
     /* Dark section - background color */
     --section-dark-bg-color: #c77000;
+    /* Dark section - text color */
+    --section-dark-text-color: var(--section-light-bg-color);
+
     /* Light&Dark section `code` a bit darker than 'Light section - background color' */
     --section-uni-code-bg-color: #e0ded7;
+    /* Light section - text color */
+    --section-light-text-color: #006080;
+
+    /* === Cover / Landing area === */
+    --cover-text-color: #ffbb0b;
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+    --highlight: #c77000;
+    --highlight-contrast: #ffebb6;
+    /*iverse colors used for :hover */
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: #006080;
+
+    /* visual guard around title and description, when the feature is enabled */
+    --cover-title-and-description-guard-bg-color: #ffebb6;
+    --cover-title-text-shadow: #fff8e7 0px 0px 7px;
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #ffbb0b;
+
+
+    /* === Footer === */
+    --footer-color-background: #006080;
+    --footer-color: #ffebb6;
+
+
 }
 
 /* ==========================================================================
@@ -18,24 +48,55 @@
    ========================================================================== */
 
 /* custom css keeps getting overwritten unless very specific selector used */
+
+#site-head .blog-title, #site-head.withCenteredImage .blog-title {
+    font-size: 7rem;
+}
+
 #site-head .blog-description, #site-head.withCenteredImage .blog-description {
     font-family: "Montserrat", sans-serif;
+    font-size: 3.8rem;
 }
+
+
 
 #site-head a.btn, #site-head.withCenteredImage a.btn {
     font-family: "Montserrat", sans-serif;
 }
 
-body {
-    font-family: "Montserrat", serif;
+/* specific selectors disable responsiveness in font size */
+@media only screen and (max-width: 1130px) {
+    #site-head .blog-title, #site-head.withCenteredImage .blog-title {
+        font-size: 5rem;
+        letter-spacing: -1px;
+    }
+
+    #site-head .blog-description, #site-head.withCenteredImage .blog-description {
+        font-family: "Montserrat", sans-serif;
+        font-size: 2.8rem;
+        line-height: 1.5em;
+    }
 }
 
-h1,h2,h3,h4,h5,h6 {
+body {
     font-family: "Montserrat", sans-serif;
 }
 
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Handlee", serif;
+}
+
 .blog-description {
-    font-family: "Montserrat", sans-serif;}
+    font-family: "Montserrat", sans-serif;
+    font-size: 3.8rem;
+    margin-top: -20px;
+}
+
+.blog-title {
+    font-family: "Handlee", serif;
+    font-size: 7rem;
+}
+
 
 a.btn {
     font-family: "Montserrat", sans-serif;}
@@ -49,4 +110,12 @@ a.btn {
     font-family: "Montserrat", sans-serif;
 }
 
+blockquote {
+    font-family: "Handlee Regular";
+}
+
+blockquote + p{
+    text-align: right;
+    margin-top: -20px;
+}
 
