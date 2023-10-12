@@ -43,3 +43,6 @@ Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken,
 
 ### Hinweise auf Rechtsverstöße:
 Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.
+
+### Urheberrechte
+Startseite: Photo von {{< targetblank  href="https://unsplash.com/@sagarkulkarni?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" title="Sagar Kulkarni" >}} auf {{< targetblank  href="https://unsplash.com/photos/8Td8zBzoAfM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" title="Unsplash" >}}

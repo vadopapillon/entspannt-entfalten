@@ -110,9 +110,19 @@ HTML Leerzeile: ```&nbsp;```
 
 ## Links
 
-Verknüpfung zu einer Website: `[Linktext](http://example.com)`
-
+Im gleichen Fenster: `[Linktext](http://example.com)`
 [Linktext](http://example.com)
+
+Auf Deiner eigenen Seite: `[Linktext](/url)`
+[Linktext](/url)
+
+In einem neuen Fenster:
+```
+{{</* targetblank href="http://example.com" title="Link in neuem Fenster" */>}}
+```
+{{< targetblank href="http://example.com" title="Link in neuem Fenster" >}}
+
+Externe Links solltest Du immer in einem neuen Fenster öffnen, sonst leitest Du Besucher von Deiner Webseite weg.
 
 ## Bilder
 
@@ -152,13 +162,14 @@ Und hier ist der Name der zitierten Person
 
 Der direkte Text nach einem Zitat wird rechtsbündig und nahe am Zitat dargestellt. 
 Sollte dies nicht gewünscht sein, dann sollte das Zitat von einer linien mit 2 leerzeichen und einem 
- `&nbsp;` gefolgt werden.
+ `&nbsp;` und einer Leerzeile gefolgt werden.
 
 ```
 > Das ist ein Zitat.
 > Hier ist eine weitere Zeile im Zitat.
   
 &nbsp;
+
 Es gibt keinen Namen der dem Zitat zugeordnet werden soll. 
 ```
 
@@ -166,6 +177,7 @@ Es gibt keinen Namen der dem Zitat zugeordnet werden soll.
 > Hier ist eine weitere Zeile im Zitat.
   
 &nbsp;
+
 Es gibt keinen Namen, der dem Zitat zugeordnet werden soll.
 
 ## Tabellen

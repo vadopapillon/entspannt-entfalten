@@ -111,11 +111,30 @@ a.btn {
 }
 
 blockquote {
-    font-family: "Handlee Regular";
+    font-family: "Handlee Regular", serif;
 }
 
 blockquote + p{
     text-align: right;
     margin-top: -20px;
+}
+
+#single-post-title-logo {
+    background-image: url("../images/kleiner_header.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+    height: 120px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+
+#single-post-title-logo a{
+    margin-top: 30px;
+    text-align: center;
+    color: var(--cover-text-color);
+    font-size: 3.5rem;
+    font-family: "Handlee Regular", serif;
 }
 
