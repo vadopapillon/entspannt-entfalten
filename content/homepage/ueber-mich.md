@@ -8,7 +8,7 @@ header_menu: true
 
 ![Vanessa Doriat](images/VanessaDoriat.jpg)
 
-Mein Name ist Vanessa und ich bin Entspannungspädagogin bei "Entspannt entfalten".  
+Ich bin Vanessa und bin die Entspannungspädagogin bei "Entspannt Entfalten".  
 Ich verstehe, dass das Leben oft stressig und herausfordernd ist und ich bin hier, um Dir Werkzeuge und Unterstützung 
 anzubieten, um besser mit den Anforderungen des Alltags umzugehen. Mein Schwerpunkt liegt darauf, Dir Techniken beizubringen, 
 die es Dir ermöglichen, schwierige Situationen gelassener zu bewältigen und Stress abzubauen.  
