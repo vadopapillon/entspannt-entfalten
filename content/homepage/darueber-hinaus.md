@@ -5,6 +5,12 @@ header_menu: true
 header_menu_title: "Darüber hinaus"
 navigation_menu_title: "Darüber hinaus"
 ---
-Neben den Entspannungskursen biete ich an, Deine Website oder Texte für Deine Social Media Präsenz Korrektur zu lesen. 
-Das ist sowohl als einmalige Zusammenarbeit als auch im Abo möglich. Auch hier gilt: Kontaktiere mich gerne für nähere 
-Informationen, wenn Du daran Interesse hast. 
+Neben den klassischen Entspannungspädagogik-Angeboten gibt es bei mir auch die "Digitale Entfaltung", eine entspannte Text-Begleitung für Selbstständige.
+Das ist zum einen die Websiten-Text-Optimierung: Der Live-Korrektur-Boost
+Worum geht's dabei?
+Du hast die Website für Deine Selbstständigkeit gerade neu gestaltet oder überarbeitet? Sie ist Deine digitale Visitenkarte und ich helfe Dir dabei, sicherzustellen, dass sie ansprechend und frei von Schreib- und Grammatikfehlern ist. Dafür machen wir einen einmaligen Online-Termine, bei dem wir gemeinsam über deine Website schauen und die Fehler, die mir auffallen, direkt korrigieren. Außerdem bekommst Du natürlich meine Rückmeldung, wie Dein Online-Auftritt inhaltlich und visuell auf mich wirkt und welches Verbesserungspotenzial es in diesem Bereich noch gibt.
+Ein solcher Online-Termin dauert erfahrungsgemäß circa eine Stunde und kostet 50 Euro.
+
+Zum anderen gibt es bei der "Digitalen Entfaltung" einen Instagram-Feinschliff im monatlichen Abo
+Was heißt das?
+Du steckst viel Zeit und Arbeit in deine Social-Media-Posts, weil Du weißt, wie wichtig sie für Deinen Online-Auftritt sind? Damit Deine Botschaft klar und fehlerfrei ankommt, biete ich Dir meinen Instagram-Feinschliff im monatlichen Abo an. Schick mir Deine Texte oder den Canva-Entwurf und innerhalb von 48 Stunden erhälst Du nicht nur die grammatikalischen Korrekturen, sondern auch meine Rückmeldung zu Optik und Inhalt. Gemeinsam gestalten wir bis zu vier Deiner Posts noch  ansprechender für nur 30 Euro pro Monat.
