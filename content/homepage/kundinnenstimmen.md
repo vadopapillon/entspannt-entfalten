@@ -25,6 +25,6 @@ header_menu: true
 
 **Anita R.**
 
->Nach 18 Jahren im Ausland hat ist mein Deutsch teilweise etwas eingerostet. Daher bin ich Vanessa sehr dankbar für ihre Hilfe. Sie liest all meine offiziellen Texte Korrektur, ob Webseiten, Postings oder Angebote. Ich kann immer darauf zählen dass Sie meine seltsamen Satzstellungen, nicht ganz deutschen Wörter, fehlende Kommas und alle anderen Macken findet und mir hilft sie zu korrigieren.   
+>Nach 18 Jahren im Ausland ist mein Deutsch teilweise etwas eingerostet. Daher bin ich Vanessa sehr dankbar für ihre Hilfe. Sie liest all meine offiziellen Texte Korrektur, ob Webseiten, Postings oder Angebote. Ich kann immer darauf zählen, dass sie meine seltsamen Satzstellungen, nicht ganz deutschen Wörter, fehlende Kommas und alle anderen Macken findet und mir hilft, sie zu korrigieren.   
 
 **Anna B.**
