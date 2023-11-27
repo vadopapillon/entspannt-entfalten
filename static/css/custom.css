@@ -83,7 +83,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Handlee", serif;
+    font-family: "Handlee Regular", sans-serif;
 }
 
 .blog-description {
@@ -93,7 +93,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .blog-title {
-    font-family: "Handlee", serif;
+    font-family: "Handlee Regular", sans-serif;
     font-size: 7rem;
 }
 
@@ -111,7 +111,7 @@ a.btn {
 }
 
 blockquote {
-    font-family: "Handlee Regular", serif;
+    font-family: "Handlee Regular", sans-serif;
 }
 
 blockquote + p{
@@ -135,13 +135,21 @@ blockquote + p{
     text-align: center;
     color: var(--cover-text-color);
     font-size: 3.5rem;
-    font-family: "Handlee Regular", serif;
+    font-family: "Handlee Regular", sans-serif;
 }
 
 /* Every post, on every page, gets this style on its <article> tag
   Not inside the post holder as this also applies for single pages
 */
 .post {
+    position: relative;
+    width: 80%;
     max-width: 800px;
+    margin: 0rem auto;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    height: 70%;
+    word-break: unset;
+    hyphens: none;
 }
 

@@ -63,7 +63,7 @@
 @font-face {
     font-family: 'Handlee Regular';
     font-style: normal;
-    font-weight: normal;
-    src: local('Handlee Regular'), url('../fonts/Handlee/Handlee-Regular.woff') format('woff');
+    font-weight: 400;
+    src: url('../fonts/Handlee/Handlee-Regular.woff') format('woff');
 }
 
