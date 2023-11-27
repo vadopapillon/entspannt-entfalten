@@ -138,3 +138,10 @@ blockquote + p{
     font-family: "Handlee Regular", serif;
 }
 
+/* Every post, on every page, gets this style on its <article> tag
+  Not inside the post holder as this also applies for single pages
+*/
+.post {
+    max-width: 800px;
+}
+
