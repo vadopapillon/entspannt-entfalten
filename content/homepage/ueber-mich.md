@@ -2,7 +2,7 @@
 title: "Über mich"
 header_menu_title: "Über mich"
 navigation_menu_title: "Über mich"
-weight: 1
+weight: 2
 header_menu: true
 ---
 
@@ -13,4 +13,4 @@ Ich verstehe, dass das Leben oft stressig und herausfordernd ist und ich bin hie
 anzubieten, um besser mit den Anforderungen des Alltags umzugehen. Mein Schwerpunkt liegt darauf, Dir Techniken beizubringen, 
 die es Dir ermöglichen, schwierige Situationen gelassener zu bewältigen und Stress abzubauen.  
 Entspannung ist für mich ein Weg, um langfristig Deine Resilienz und Dein Wohlbefinden zu fördern.
-Außerdem biete ich mit "Digitale Entfaltung" eine entspannte Text-Begleitung für Selbstständige an.
+Außerdem biete ich mit "Digital Entfalten" eine entspannte Begleitung für Selbstständige an.
