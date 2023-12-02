@@ -2,21 +2,19 @@
 title: "Entspannungskurse"
 header_menu_title: "Entspannungskurse"
 navigation_menu_title: "Entspannungskurse"
-weight: 2
+weight: 3
 header_menu: true
 ---
 
 Bei „Entspannt Entfalten“ gibt es verschiedene Entspannungskurse und -pakete.
 
-Dabei handelt es sich zum einen um ganz klassische Online-Kurse zu Autogenem Training oder Progressiver Muskelentspannung.
+Dabei handelt es sich zum einen um ganz klassische Kurse zu Autogenem Training oder Progressiver Muskelentspannung.
 Nach einem online Vorgespräch und einer kostenlosen Schnupperstunde in beide Verfahren entscheidest Du, welche der
-Entspannungstechniken Du näher kennenlernen möchtest.
+Entspannungstechniken Du näher kennenlernen möchtest. Die Kurse starten 2024, weitere Informationen folgen!
 
-Zum anderen habe ich ein spezielles Entspannungspaket für Eltern entwickelt, das ihnen dabei hilft, 
-in stressigen Situationen die Ruhe zu bewahren und die Gelassenheit zu stärken. Die entsprechenden Audiodateien 
-können Dir zum Beispiel bei der Einschlafbegleitung Deines Kindes helfen und Deine eigene Entspannung fördern. 
-Im Paketpreis enthalten ist außerdem eine individuelle Audiodatei, die ich nach einem kurzen Gespräch ganz nach 
-Deinen aktuellen Bedürfnissen erstelle.
+Zum anderen habe ich Entspannte Hörerlebnisse entwickelt, die dabei helfen, im Alltagschoas Ruhe zu finden. 
+Die entsprechenden Audiodateien können Dich unterstützen, in stressigen Situationen die Ruhe zu bewahren und die Gelassenheit zu stärken.
+Im Abo enthalten ist außerdem eine individuelle Audiodatei, die ich nach einem kurzen Gespräch ganz nach Deinen aktuellen Bedürfnissen erstelle. Die Entspannten Hörerlebnisse gehen in wenigen Wochen online, dann findest Du den entsprechenden Steady-Link natürlich hier.
 
 #### Was ist Autogenes Training?
 Autogenes Training ist eine bewährte Methode zur Stressbewältigung und Entspannung. Bei dieser Technik lernst Du, 
