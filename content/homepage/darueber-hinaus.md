@@ -1,9 +1,9 @@
 ---
-title: "Darüber hinaus"
+title: "Digital Entfalten"
 weight: 4
 header_menu: true
-header_menu_title: "Darüber hinaus"
-navigation_menu_title: "Darüber hinaus"
+header_menu_title: "Digital Entfalten"
+navigation_menu_title: "Digital Entfalten"
 ---
 Neben den klassischen Entspannungspädagogik-Angeboten gibt es bei mir noch "Digital Entfalten", eine entspannte Begleitung für Selbstständige.
 Das ist zum einen die Websiten-Text-Optimierung: Der Live-Korrektur-Boost
