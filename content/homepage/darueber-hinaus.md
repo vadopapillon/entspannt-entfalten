@@ -5,7 +5,7 @@ header_menu: true
 header_menu_title: "Darüber hinaus"
 navigation_menu_title: "Darüber hinaus"
 ---
-Neben den klassischen Entspannungspädagogik-Angeboten gibt es bei mir auch die "Digitale Entfaltung", eine entspannte Text-Begleitung für Selbstständige.
+Neben den klassischen Entspannungspädagogik-Angeboten gibt es bei mir noch "Digital Entfalten", eine entspannte Begleitung für Selbstständige.
 Das ist zum einen die Websiten-Text-Optimierung: Der Live-Korrektur-Boost
 Worum geht's dabei?
 Du hast die Website für Deine Selbstständigkeit gerade neu gestaltet oder überarbeitet? Sie ist Deine digitale Visitenkarte und ich helfe Dir dabei, sicherzustellen, dass sie ansprechend und frei von Schreib- und Grammatikfehlern ist. Dafür machen wir einen einmaligen Online-Termine, bei dem wir gemeinsam über deine Website schauen und die Fehler, die mir auffallen, direkt korrigieren. Außerdem bekommst Du natürlich meine Rückmeldung, wie Dein Online-Auftritt inhaltlich und visuell auf mich wirkt und welches Verbesserungspotenzial es in diesem Bereich noch gibt.
