@@ -12,8 +12,7 @@ Würmstr. 9
 
 
 ### Kontakt:
-Telefon: 
-E-Mail: 
+E-Mail: vanessa@entspannt-entfalten.de
  
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
