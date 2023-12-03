@@ -12,7 +12,7 @@ Dabei handelt es sich zum einen um ganz klassische Kurse zu Autogenem Training o
 Nach einem online Vorgespräch und einer kostenlosen Schnupperstunde in beide Verfahren entscheidest Du, welche der
 Entspannungstechniken Du näher kennenlernen möchtest. Die Kurse starten 2024, weitere Informationen folgen!
 
-Zum anderen habe ich Entspannte Hörerlebnisse entwickelt, die dabei helfen, im Alltagschoas Ruhe zu finden. 
+Zum anderen habe ich Entspannte Hörerlebnisse entwickelt, die dabei helfen, im Alltagschaos Ruhe zu finden. 
 Die entsprechenden Audiodateien können Dich unterstützen, in stressigen Situationen die Ruhe zu bewahren und die Gelassenheit zu stärken.
 Im Abo enthalten ist außerdem eine individuelle Audiodatei, die ich nach einem kurzen Gespräch ganz nach Deinen aktuellen Bedürfnissen erstelle. Die Entspannten Hörerlebnisse gehen in wenigen Wochen online, dann findest Du den entsprechenden Steady-Link natürlich hier.
 
