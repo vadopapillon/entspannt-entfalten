@@ -28,7 +28,7 @@ Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Online
 Instagram
 
 ### Online-Streitbeilegung (OS)
-Online-Streitbeilegung: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter https://ec.europa.eu/consumers/odr/ finden. Verbraucher haben die Möglichkeit, diese Plattform für die Beilegung ihrer Streitigkeiten zu nutzen.
+Online-Streitbeilegung: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Du unter https://ec.europa.eu/consumers/odr/ findest. Verbraucher haben die Möglichkeit, diese Plattform für die Beilegung ihrer Streitigkeiten zu nutzen.
 
 ### Haftungsausschluss:
 #### Haftung für Inhalte
@@ -41,7 +41,7 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen unseren Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteverwalter.
 
 ### Hinweise auf Rechtsverstöße:
-Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.
+Solltest Du innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Dich uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.
 
 ### Urheberrechte
 Startseite: Photo von {{< targetblank  href="https://unsplash.com/@sagarkulkarni?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" title="Sagar Kulkarni" >}} auf {{< targetblank  href="https://unsplash.com/photos/8Td8zBzoAfM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" title="Unsplash" >}}
