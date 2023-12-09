@@ -10,6 +10,6 @@ header_use_video: false
 header_logo: ""
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Entspannt entfalten"
-header_subheadline: "Entspannungspädagogik"
+header_headline: "Entspannt Entfalten"
+header_subheadline: ""
 ---
