@@ -8,10 +8,12 @@ header_menu: true
 
 Bei „Entspannt Entfalten“ gibt es verschiedene Entspannungsangebote:
 
-* Klassische Kurse zu Autogenem Training oder Progressiver Muskelentspannung
+* Kurse zu Autogenem Training oder Progressiver Muskelentspannung
+  
 (Die Kurse starten 2024, weitere Informationen folgen!)
 
-* Entspannte Hörerlebnisse, um Ruhe um Alltag zu finden 
+* Entspannte Hörerlebnisse, um Ruhe um Alltag zu finden
+  
 Die Audiodateien können Dich unterstützen, in stressigen Situationen die Ruhe zu bewahren und die Gelassenheit zu stärken.
 Im Abo enthalten ist außerdem eine individuelle Audiodatei, die ich nach einem kurzen Gespräch ganz nach Deinen aktuellen Bedürfnissen erstelle.
 Die Entspannten Hörerlebnisse gehen in wenigen Wochen online, dann findest Du den entsprechenden Steady-Link natürlich hier.
